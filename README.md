@@ -99,7 +99,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease.
 - [dsnet](https://github.com/naggie/dsnet/) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
-- [Zero overhead wireguard setup](https://github.com/finzzz/wgzero)
+- [wgzero](https://github.com/finzzz/wgzero) - Zero overhead wireguard setup.
 - [wg-make](https://github.com/tevino/wg-make) - A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
 
 ### Mesh Network
