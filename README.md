@@ -22,7 +22,7 @@ _If you see a link here that is not (any longer) a good fit, you can fix it by s
 - [Projects](#projects)
   - [Tools](#tools)
   - [Mesh Network](#mesh-network)
-  - Deployment
+  - [Deployment](#deployment)
   - Monitoring
   - Security
     - Protocol
@@ -118,6 +118,11 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ### Deployment
 
 - [WireHole](https://github.com/IAmStoxe/wirehole) - A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+- [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
+- [Cloudblock](https://github.com/chadgeary/cloudblock) - Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
+- [ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
+- [terraform-aws-wireguard](https://github.com/jmhale/terraform-aws-wireguard) - Terraform module to deploy WireGuard on AWS.
+- [wireguard-go docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
 
 ### Monitoring
 
@@ -139,6 +144,10 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora.
 - [WireGuard-Manager](https://github.com/complexorganizations/wireguard-manager) - enables you to build your own vpn under a minute.
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
+- [tun2socks](https://github.com/xjasonlyu/tun2socks) - Powered by gVisor TCP/IP stack.
+- [guard](https://github.com/stellarproject/guard) - A gRPC server for managing wireguard tunnels.
+- [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy.
+- [wgctl](https://github.com/apognu/wgctl) - Utility to configure and manage your WireGuard tunnels.
 
 #### Web
 
@@ -173,6 +182,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 #### VPN
 
 - [Mullvad](https://github.com/mullvad/mullvadvpn-app)
+- [MozWire](https://github.com/NilsIrl/MozWire) - An unofficial configuration manager giving Linux, macOS users (among others), access to Mozilla VPN.
 
 ### Extensions / Plugins
 
