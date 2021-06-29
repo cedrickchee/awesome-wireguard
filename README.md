@@ -15,11 +15,45 @@ WireGuard® - fast, modern, secure VPN tunnel.
 - Where to Start
 - Projects
   - Tools
+  - Mesh Network
+  - Deployment
+  - Monitoring
+  - Security
+    - Protocol
+    - Encryption
+  - Runtime
   - User Interface
+    - Terminal / CLI
+    - Desktop
+    - Web
+    - Dashboards
   - Development
+    - Development Environment
+    - Testing
+    - Boilerplate
+  - Homeserver
+  - Services based on WireGuard
+    - Cloud Service
+    - VPN
+  - Extensions / Plugins
+  - Optimization
+  - Language Bindings
+  - Alternative Implementations
 - Useful Resources
+  - Blog Posts
+  - Articles
+  - Demos and Examples
+  - Good Tips
+  - Tutorials
+  - Videos
+  - Books
+  - Podcasts and Interviews
+  - Presentations
+  - Newsletters
 - Uncategorized
 - Communities and Meetups
+  - English
+  - Chinese
 
 </details>
 
