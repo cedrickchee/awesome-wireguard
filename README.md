@@ -67,7 +67,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
     - Not Wireguard-based
       - [Tinc](https://www.tinc-vpn.org/) - tinc is a VPN daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet.
       - [Nebula](https://github.com/slackhq/nebula) - Slack's Nebula is a scalable overlay networking tool.
-      - [Zerotier](https://zerotier.com) - 
+      - [Zerotier](https://zerotier.com) - Directly Connecting the World's Devices with Universal Software Defined Networking.
   - Deployment
   - Monitoring
   - Security
