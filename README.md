@@ -57,6 +57,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
     - [dsnet](https://github.com/naggie/dsnet/) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
     - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
     - [Zero overhead wireguard setup](https://github.com/finzzz/wgzero)
+    - [wg-make](https://github.com/tevino/wg-make) - A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
   - Mesh Network
     - [Tailscale](https://tailscale.com/) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
     - [Headscale](https://github.com/juanfont/headscale) - An open source implementation of the Tailscale control server.
