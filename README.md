@@ -227,7 +227,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ## Contribute
 
-Contributions welcome! If you would like to contribute, please read the [contribution guidelines][contribute] first. It contains a lot of tips and guidelines to help keep things organized.
+Contributions welcome! If you would like to contribute, please read the [contribution guidelines][contributing] first. It contains a lot of tips and guidelines to help keep things organized.
 
 _Future: Implement GitHub Actions to monitor and verify all the links with a simple [Node.js script](./scripts/pull_request.js)_
 
@@ -260,3 +260,6 @@ Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.
 
 The code in this repository is released under the [MIT license](LICENSE).
 </details>
+
+[editreadme]: https://github.com/cedrickchee/awesome-wireguard/edit/master/README.md
+[contributing]: https://github.com/cedrickchee/awesome-wireguard/blob/master/.github/CONTRIBUTING.md
