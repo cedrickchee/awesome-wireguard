@@ -4,6 +4,12 @@
 
 WireGuard® - fast, modern, secure VPN tunnel.
 
+_You can see the updates on [Twitter](https://twitter.com/awesome-wireguard) (coming soon)_
+
+> Please, help organize these resources so that they are easy to find and understand for newcomers. See how to [Contribute](contributing) for tips!
+
+_If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request](editreadme) to improve this file. Thank you!_
+
 ## Contents
 
 <details>
@@ -221,7 +227,9 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! If you would like to contribute, please read the [contribution guidelines](CONTRIBUTING.md) first. It contains a lot of tips and guidelines to help keep things organized.
+
+_Future: Implement GitHub Actions to monitor and verify all the links with a simple [Node.js script](./scripts/pull_request.js)_
 
 ## Copyright
 
