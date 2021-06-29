@@ -10,46 +10,46 @@ WireGuard® - fast, modern, secure VPN tunnel.
 
 <summary><b>Expand Table of Contents</b></summary>
 
-- What is WireGuard
-- Official Resources
-- Where to Start
-- Projects
-  - Tools
-  - Mesh Network
+- [What is WireGuard](#what-is-wireguard)
+- [Official Resources](#official-resources)
+- [Where to Start](#where-to-start)
+- [Projects](#projects)
+  - [Tools](#tools)
+  - [Mesh Network](#mesh-network)
   - Deployment
   - Monitoring
   - Security
     - Protocol
     - Encryption
   - Runtime
-  - User Interface
-    - Terminal / CLI
+  - [User Interface](#user-interface)
+    - [Terminal / CLI](terminal--cli)
+    - [Web](#web)
     - Desktop
-    - Web
     - Dashboards
   - Development
     - Development Environment
     - Testing
     - Boilerplate
   - Homeserver
-  - Services based on WireGuard
+  - [Services based on WireGuard](#services-based-on-wireguard)
     - Cloud Service
-    - VPN
-  - Extensions / Plugins
+    - [VPN](#vpn)
+  - [Extensions / Plugins](#extensions--plugins)
   - Optimization
   - Language Bindings
-  - Alternative Implementations
-- Useful Resources
-  - Blog Posts
-  - Articles
-  - Demos and Examples
-  - Good Tips
-  - Tutorials
-  - Videos
-  - Books
-  - Podcasts and Interviews
-  - Presentations
-  - Newsletters
+  - [Alternative Implementations](#alternative-implementations)
+- [Useful Resources](#useful-resources)
+  - [Blog Posts](#blog-posts)
+  - [Articles](#articles)
+  - [Demos and Examples](#demos-and-examples)
+  - [Good Tips](#good-tips)
+  - [Tutorials](#tutorials)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Podcasts and Interviews](#podcasts-and-interviews)
+  - [Presentations](#presentations)
+  - [Newsletters](#newsletters)
 - Uncategorized
 - Communities and Meetups
   - English
@@ -95,7 +95,9 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [Zero overhead wireguard setup](https://github.com/finzzz/wgzero)
 - [wg-make](https://github.com/tevino/wg-make) - A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
-- Mesh Network
+
+### Mesh Network
+
 - [Tailscale](https://tailscale.com/) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
 - [Headscale](https://github.com/juanfont/headscale) - An open source implementation of the Tailscale control server.
 - [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood. It is similar in its goals to Slack's nebula or Tailscale.
@@ -136,6 +138,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard.
 - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
+
+#### Desktop
 
 #### Dashboards
 
