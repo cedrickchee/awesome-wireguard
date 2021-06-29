@@ -6,7 +6,7 @@ However, for those individuals who want a bit more guidance on the best way to c
 
 We appreciate and recognize [all contributors](https://github.com/cedrickchee/awesome-wireguard/graphs/contributors).
 
-<!-- Please note that this project is released with a [Contributor Code of Conduct](https://github.com/cedrickchee/awesome-wireguard/blob/master/.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. -->
+<!-- Please note that this project is released with a [Contributor Code of Conduct](https://github.com/cedrickchee/awesome-wireguard/blob/main/.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. -->
 
 # Table of Contents
 
@@ -83,7 +83,7 @@ If you just joined the team of maintainers for this repo, first of all: WELCOME!
 If it is your first time maintaining an open source project, read the [best practice guides for maintainers](https://opensource.guide/best-practices/).
 
 Here are the few things you need to know:
-* We don't push directly to the master branch. Every entry **MUST** be reviewed!
+* We don't push directly to the main branch. Every entry **MUST** be reviewed!
 * Each entry should be in accordance to this quality standards and contribution guidelines.
 * If something seems weird, i.e. if you don't understand what a project does or the documentation is poor, don't hesitate to (nicely) ask for more explanation (see previous point).
 * Say thank you to people who contribute to this project! It may not seems like much but respect and gratitude are important :D

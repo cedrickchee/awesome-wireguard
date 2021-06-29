@@ -261,5 +261,5 @@ Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.
 The code in this repository is released under the [MIT license](LICENSE).
 </details>
 
-[editreadme]: https://github.com/cedrickchee/awesome-wireguard/edit/master/README.md
-[contributing]: https://github.com/cedrickchee/awesome-wireguard/blob/master/.github/CONTRIBUTING.md
+[editreadme]: https://github.com/cedrickchee/awesome-wireguard/edit/main/README.md
+[contributing]: https://github.com/cedrickchee/awesome-wireguard/blob/main/.github/CONTRIBUTING.md
