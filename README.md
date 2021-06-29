@@ -136,8 +136,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [PiVPN](https://github.com/pivpn/pivpn) - The Simplest VPN installer (scripts), designed for Raspberry Pi.
 - [wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora.
 - [WireGuard-Manager](https://github.com/complexorganizations/wireguard-manager) - enables you to build your own vpn under a minute.
-- Desktop
-  - [Network-Manager VPN Plugin for WireGuard](https://github.com/max-moser/network-manager-wireguard)
+- [wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
 
 #### Web
 
@@ -146,6 +145,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 
 #### Desktop
+
+- [network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - Network-Manager VPN Plugin for WireGuard.
 
 #### Dashboards
 
