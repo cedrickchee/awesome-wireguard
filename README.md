@@ -1,5 +1,11 @@
 # Awesome WireGuard [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+<br />
+<div align="center">
+  <img width="581" src="https://raw.githubusercontent.com/cedrickchee/awesome-wireguard/master/assets/banner.png">
+</div>
+<br />
+
 > A curated list of WireGuard tools, projects, and resources.
 
 WireGuard® - fast, modern, secure VPN tunnel.
