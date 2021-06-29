@@ -117,6 +117,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Deployment
 
+- [WireHole](https://github.com/IAmStoxe/wirehole) - A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+
 ### Monitoring
 
 ### Security
@@ -150,6 +152,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 #### Dashboards
 
+- [Wireguard Dashboard](https://github.com/donaldzou/wireguard-dashboard) - A simple and easy to use WireGuard dashboard written in Python and Flask.
+
 ### Development
 
 #### Development Environment
@@ -163,6 +167,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ### Services based on WireGuard
 
 #### Cloud Service
+
+- [Warp](https://blog.cloudflare.com/1111-warp-better-vpn/) - A free WireGuard VPN from Cloudflare that's trying to fix mobile Internet performance and security.
 
 #### VPN
 
