@@ -1,4 +1,4 @@
-# Awesome WireGuard [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WireGuard [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A curated list of WireGuard tools, projects, and resources.
 
