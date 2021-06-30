@@ -37,15 +37,15 @@ _If you see a link here that is not (any longer) a good fit, you can fix it by s
   - [User Interface](#user-interface)
     - [Terminal / CLI](terminal--cli)
     - [Web](#web)
-    - Desktop
-    - Dashboards
+    - [Desktop](#desktop)
+    - [Dashboards](#dashboards)
   - Development
     - Development Environment
     - Testing
     - Boilerplate
   - Homeserver
   - [Services based on WireGuard](#services-based-on-wireguard)
-    - Cloud Service
+    - [Cloud Service](#cloud-service)
     - [VPN](#vpn)
   - [Extensions / Plugins](#extensions--plugins)
   - Optimization
@@ -63,8 +63,8 @@ _If you see a link here that is not (any longer) a good fit, you can fix it by s
   - [Presentations](#presentations)
   - [Newsletters](#newsletters)
 - Uncategorized
-- Communities and Meetups
-  - English
+- [Communities and Meetups](#communities-and-meetups)
+  - [English](#english)
   - Chinese
 
 </details>
@@ -164,6 +164,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 #### Desktop
 
 - [network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - Network-Manager VPN Plugin for WireGuard.
+- [WireGuardStatusbar](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
 
 #### Dashboards
 
@@ -247,8 +248,12 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ## Communities and Meetups
 
-- English
-- Chinese
+### English
+
+- [/r/WireGuard](https://www.reddit.com/r/WireGuard/) - Official Reddit WireGuard.
+- [#wireguard on Libera](https://web.libera.chat/#wireguard) - Official IRC on Libera Chat.
+
+### Chinese
 
 ## Contribute
 
