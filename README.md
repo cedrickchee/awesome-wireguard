@@ -116,10 +116,6 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [Kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg).
 - [Wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard-based mesh network.
 - [wesher](https://github.com/costela/wesher) - wesher creates and manages an encrypted mesh overlay network across a group of nodes.
-- Not Wireguard-based
-  - [Tinc](https://www.tinc-vpn.org/) - tinc is a VPN daemon that uses tunnelling and encryption to create a secure private network between hosts on the Internet.
-  - [Nebula](https://github.com/slackhq/nebula) - Slack's Nebula is a scalable overlay networking tool.
-  - [Zerotier](https://zerotier.com) - Directly Connecting the World's Devices with Universal Software Defined Networking.
 
 ### Deployment
 
