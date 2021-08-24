@@ -185,6 +185,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 #### Cloud Service
 
 - [Warp](https://blog.cloudflare.com/1111-warp-better-vpn/) - A free WireGuard VPN from Cloudflare that's trying to fix mobile Internet performance and security.
+- [wgcf](https://github.com/ViRb3/wgcf) - Cross-platform, unofficial CLI for Cloudflare Warp.
 
 #### VPN
 
