@@ -130,6 +130,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [terraform-aws-wireguard](https://github.com/jmhale/terraform-aws-wireguard) - Terraform module to deploy WireGuard on AWS.
 - [wireguard-go docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
+- [Firezone](https://github.com/firezone/firezone) - An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this.
 
 ### Monitoring
 
