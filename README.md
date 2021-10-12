@@ -131,6 +131,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [terraform-aws-wireguard](https://github.com/jmhale/terraform-aws-wireguard) - Terraform module to deploy WireGuard on AWS.
 - [wireguard-go docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
 - [Firezone](https://github.com/firezone/firezone) - An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this.
+- [Algo VPN](https://github.com/trailofbits/algo) - Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits.
 
 ### Monitoring
 
