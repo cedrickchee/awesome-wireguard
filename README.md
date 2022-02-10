@@ -221,6 +221,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)
 - [Taildrop was kind of easy, actually](https://tailscale.com/blog/2021-06-taildrop-was-easy/) - Taildrop was the main new feature launched in Tailscale v1.8.
 - [IPv6 WireGuard Peering at Fly.io](https://fly.io/blog/ipv6-wireguard-peering/)
+- [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
 
 ### Articles
 
