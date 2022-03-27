@@ -108,6 +108,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [wgzero](https://github.com/finzzz/wgzero) - Zero overhead wireguard setup.
 - [wg-make](https://github.com/tevino/wg-make) - A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
 - [onetun](https://github.com/aramperes/onetun) - A user-space WireGuard port-forwarder -- access ports running on peers in your WireGuard network from any device; without having to install WireGuard locally or without root access (no iptables configs).
+- [wireproxy](https://github.com/octeep/wireproxy) - A userspace WireGuard client that connects to a WireGuard peer, and exposes a SOCKS5 proxy.
 
 ### Mesh Network
 
