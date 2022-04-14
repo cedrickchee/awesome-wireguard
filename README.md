@@ -227,6 +227,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [Taildrop was kind of easy, actually](https://tailscale.com/blog/2021-06-taildrop-was-easy/) - Taildrop was the main new feature launched in Tailscale v1.8.
 - [IPv6 WireGuard Peering at Fly.io](https://fly.io/blog/ipv6-wireguard-peering/)
 - [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
+- [Tunnel WireGuard via WebSockets](https://kirill888.github.io/notes/wireguard-via-websocket/) - Setting up WireGuard to work in restricted networks that block UDP traffic.
 
 ### Articles
 
