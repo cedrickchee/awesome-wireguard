@@ -209,6 +209,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Optimization
 
+- [nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - A Python project to help you find the optimal MTU values for WG server and WG peer that maximizes the upload or download speeds between a peer and server.
+
 ### Language Bindings
 
 ### Alternative Implementations
