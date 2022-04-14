@@ -163,6 +163,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [guard](https://github.com/stellarproject/guard) - A gRPC server for managing wireguard tunnels.
 - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy.
 - [wgctl](https://github.com/apognu/wgctl) - Utility to configure and manage your WireGuard tunnels.
+- [Wiresteward](https://github.com/utilitywarehouse/wiresteward) - A WireGuard peer manager with OAuth2 authentication.
 
 #### Web
 
