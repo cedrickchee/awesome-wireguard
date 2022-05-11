@@ -231,6 +231,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [IPv6 WireGuard Peering at Fly.io](https://fly.io/blog/ipv6-wireguard-peering/)
 - [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
 - [Tunnel WireGuard via WebSockets](https://kirill888.github.io/notes/wireguard-via-websocket/) - Setting up WireGuard to work in restricted networks that block UDP traffic.
+- [Tailscale's human-scale networks are still controlled by Google and Microsoft](https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/)
 
 ### Articles
 
