@@ -117,7 +117,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [Headscale](https://github.com/juanfont/headscale) - An open source implementation of the Tailscale control server.
 - [innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood. It is similar in its goals to Slack's nebula or Tailscale.
 - [Kilo](https://github.com/squat/kilo) - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg).
-- [Wiretrustee](https://github.com/wiretrustee/wiretrustee) - Connect your devices into a single secure private WireGuard-based mesh network.
+- [netbird](github.com/netbirdio/netbird) - (Previously wiretrustee) NetBird is an open-source VPN management platform built on top of WireGuard® making it easy to create secure private networks for your organization or home.
 - [wesher](https://github.com/costela/wesher) - wesher creates and manages an encrypted mesh overlay network across a group of nodes.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker is a VPN platform that automates WireGuard from homelab to enterprise. The key distinctions in their solutions are: fast because it can use kernel WireGuard (instead of userspace WireGuard, which is slower), tailored towards the Cloud and Kubernetes, and fully self-hostable.
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - Compare WireGuard mesh tools.
