@@ -169,7 +169,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 #### Web
 
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard.
-- [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
+- [Subspace](https://github.com/subspacecommunity/subspace) - A simple WireGuard VPN server GUI.
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy/) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 
