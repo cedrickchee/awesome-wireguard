@@ -251,6 +251,10 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [Building a simple VPN with WireGuard with a Raspberry Pi as Server](https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/)
 - [Setting up a home VPN server with Wireguard (macOS)](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [Creating a VPN Gateway with a Unikernel running WireGuard](https://nanovms.com/dev/tutorials/running-nanos-wireguard-vpn-gateway)
+- [Directions for setting up a WireGuard bounce server](https://gitlab.com/ncmncm/wireguard-bounce-server)
+  > I find plenty of tutorials online for setting up the most basic Wireguard apparatus.
+  > Like most peoples', my machines are stuck behind NATs. To connect between NATted hosts, you need control of a host that is not, to keep up on what external addresses the NATs are presenting.
+  > The docs for WireGuard mention bounce servers, but say nothing about how to set one up.
 
 ### Videos
 
