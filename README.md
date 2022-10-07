@@ -270,6 +270,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ## Uncategorized
 
+- [WebVM: Linux Virtualization in WebAssembly with Full Networking via Tailscale](https://leaningtech.com/webvm-virtual-machine-with-networking-via-tailscale/) - Run WireGuard and Tailscale in the browser. wireguard-go code compiled to Wasm. WebVM is proprietary WebAssembly-powered x86 virtualization tech. I'm genuinely curious how it compares to v86/Fabrice Bellard's JSLinux (like WebVM but free and opened-source).
+
 ## Communities and Meetups
 
 ### English
