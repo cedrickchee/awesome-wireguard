@@ -258,6 +258,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Videos
 
+- [How To Build Your Own Wireguard VPN Server in The Cloud](https://www.youtube.com/watch?v=7yC-gJtl9mQ) - A good tutorial from Lawerence Systems regarding WireGuard.
+
 ### Books
 
 ### Podcasts and Interviews
