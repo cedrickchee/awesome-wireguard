@@ -258,6 +258,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Videos
 
+- [WireGuard: Next Generation Abuse-Resistant Kernel Network Tunnel](https://www.youtube.com/watch?v=eYztYCbV_8U)- A good talk from the WireGuard developer and security researcher, Jason Donenfeld explaining what WireGuard can do and how it works. The talk examine both the cryptography and kernel implementation particulars of WireGuard and explore an offensive attack perspective on network tunnels.
 - [How To Build Your Own Wireguard VPN Server in The Cloud](https://www.youtube.com/watch?v=7yC-gJtl9mQ) - A good tutorial from Lawerence Systems regarding WireGuard.
 
 ### Books
