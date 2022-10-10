@@ -243,6 +243,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Good Tips
 
+- [WireGuard Gotchas with Multiple Tunnels](https://casavant.org/2020/10/10/wireguard-fwmark.html) - WG has a bit of a trap/gotcha when running multiple independent tunnels, one of which has a default route associated with it.
+
 ### Tutorials
 
 - [How to easily configure WireGuard](https://www.stavros.io/posts/how-to-configure-wireguard/)
