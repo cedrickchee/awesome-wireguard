@@ -238,6 +238,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [In-kernel WireGuard is on its way to FreeBSD and the pfSense router](https://arstechnica.com/gadgets/2021/03/in-kernel-wireguard-is-on-its-way-to-freebsd-and-the-pfsense-router/)
 - [It's Looking Like Android Could Be Embracing WireGuard - "A Sane VPN"](https://www.phoronix.com/scan.php?page=news_item&px=WireGuard-Android-GKI-Enabled)
 - [Tailscale Raises $100 Million Series B to Fix the Internet with its Zero Trust VPN for Modern DevOps Teams](https://www.businesswire.com/news/home/20220504005325/en)
+- [Identity management for WireGuard](https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/)
 
 ### Demos and Examples
 
