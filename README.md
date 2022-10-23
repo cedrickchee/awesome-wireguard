@@ -148,6 +148,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Monitoring
 
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, very light on your server resources.
+
 ### Security
 
 ####  Protocol
