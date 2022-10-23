@@ -173,6 +173,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy.
 - [wgctl](https://github.com/apognu/wgctl) - Utility to configure and manage your WireGuard tunnels.
 - [Wiresteward](https://github.com/utilitywarehouse/wiresteward) - A WireGuard peer manager with OAuth2 authentication.
+- [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools) - WireGuard helper scripts.
 
 #### Web
 
