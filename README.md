@@ -29,6 +29,7 @@ _If you see a link here that is not (any longer) a good fit, you can fix it by s
   - [Tools](#tools)
   - [Mesh Network](#mesh-network)
   - [Deployment](#deployment)
+    - [Container](#container)
   - Monitoring
   - Security
     - Protocol
@@ -133,12 +134,17 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [Cloudblock](https://github.com/chadgeary/cloudblock) - Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
 - [ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [terraform-aws-wireguard](https://github.com/jmhale/terraform-aws-wireguard) - Terraform module to deploy WireGuard on AWS.
-- [wireguard-go docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
 - [Firezone](https://github.com/firezone/firezone) - An open-source WireGuard-based VPN server alternative to OpenVPN Access Server. You can self-host this.
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits.
 - [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
 - [WirtBot](https://github.com/b-m-f/WirtBot) - Think of it as a component that will allow you to extend your LAN over the Internet. WirtBot simplifies the process of creating your own private network into 3 steps. No registration, no accounts - Just a network that belongs to you. And it will always be completely free (except for the server/VPS you run it on).
 - [seashell/drago](https://github.com/seashell/drago) - A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI.
+
+#### Container
+
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - A WireGuard container image brought to you by LinuxServer.io. Not all image authors are as great as LinuxServer.io team.
+- [cmulk/wireguard-docker](https://github.com/cmulk/wireguard-docker) - A Docker image and configuration for a simple personal VPN, used for the goal of security over insecure (public) networks, not necessarily for Internet anonymity. There are currently 3 flavors.
+- [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
 
 ### Monitoring
 
