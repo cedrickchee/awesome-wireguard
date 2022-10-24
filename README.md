@@ -241,6 +241,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
 - [Tunnel WireGuard via WebSockets](https://kirill888.github.io/notes/wireguard-via-websocket/) - Setting up WireGuard to work in restricted networks that block UDP traffic.
 - [Tailscale's human-scale networks are still controlled by Google and Microsoft](https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/)
+- [How to access a peer's local network](https://iliasa.eu/wireguard-how-to-access-a-peers-local-network/) - A simple solution. There is no need of any configurations to set split-tunneling. The example shows how Peer B can route to Peer A through a WG server. Peer B can reach a specific network (subnet) behind Peer A.
 
 ### Articles
 
