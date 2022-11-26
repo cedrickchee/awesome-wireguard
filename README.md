@@ -212,6 +212,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 - [Mullvad](https://github.com/mullvad/mullvadvpn-app)
 - [MozWire](https://github.com/NilsIrl/MozWire) - An unofficial configuration manager giving Linux, macOS users (among others), access to Mozilla VPN.
+- [LNVPN](https://github.com/LightRider5/lnvpn) - A wireguard VPN provider with Ligthning only payments, pay as you use.
 
 ### Extensions / Plugins
 
