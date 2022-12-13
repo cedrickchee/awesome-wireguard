@@ -104,6 +104,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 - [wg-quick](https://git.zx2c4.com/wireguard-tools/about/src/man/wg-quick.8) - Official cross-platform tool to set up a WireGuard interface simply.
 - [easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease.
+- [wireguard-install](https://github.com/angristan/wireguard-install) - Installs Wireguard in a hub and peers configuration and if launched again after first install it can create the Wireguard config to add a new user, or delete an existing user from the configuration.
 - [dsnet](https://github.com/naggie/dsnet/) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [wgzero](https://github.com/finzzz/wgzero) - Zero overhead wireguard setup.
