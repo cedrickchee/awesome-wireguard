@@ -23,17 +23,17 @@ _If you see a link here that is not (any longer) a good fit, you can fix it by s
 
 We use emoji to determine repository status.
 
-:green_circle: - **active** repos (last commit date is less than 3 months)
+:green_circle: **active** repos (last commit date is less than 3 months)
 
-:yellow_circle: - **stale** repos (last commit date is more than 6 months)
+:yellow_circle: **stale** repos (last commit date is more than 6 months)
 
-:red_circle: - **inactive** repos (last commit date is more than 1 year)
+:red_circle: **inactive** repos (last commit date is more than 1 year)
 
-:blue_circle: - repos that **were code completed**
+:black_circle: repos that **were superseded**
 
-:black_circle: - repos that **were superseded**
+:blue_square: repos that **were code completed**
 
-:grey_question: - repos that **weren't found** (broken link)
+:grey_question: repos that **weren't found** (broken link)
 
 ---
 
@@ -125,7 +125,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 - [wg-quick](https://git.zx2c4.com/wireguard-tools/about/src/man/wg-quick.8) - Official cross-platform tool to set up a WireGuard interface simply.
 - [easy-wg-quick](https://github.com/burghardt/easy-wg-quick) - Creates Wireguard configuration for hub and peers with ease.
-![GitHub last commit](https://img.shields.io/github/last-commit/burghardt/easy-wg-quick?style=flat-square&color=informational) :green_circle: :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/burghardt/easy-wg-quick?style=flat-square&color=informational) :green_circle:
 - [dsnet](https://github.com/naggie/dsnet/) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 ![GitHub last commit](https://img.shields.io/github/last-commit/naggie/dsnet?style=flat-square&color=informational) :green_circle:
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
