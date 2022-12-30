@@ -298,8 +298,16 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 ### Alternative Implementations
 
+Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C and Go, other implementations include:
+
 - [boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard implementation in Rust by Cloudflare.
 ![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/boringtun?style=flat-square&color=informational) :green_circle:
+- [Matt Dunwoodie's implementation for OpenBSD, written in C](https://undeadly.org/cgi?action=article;sid=20200622052207).
+- [Ryota Ozaki's wg(4) implementation, for NetBSD, is written in C](https://man.netbsd.org/wg.4).
+- [smartalock/wireguard-lwip](https://github.com/smartalock/wireguard-lwip) - A C implementation of the WireGuard protocol intended to be used with the lwIP IP stack.
+![GitHub last commit](https://img.shields.io/github/last-commit/smartalock/wireguard-lwip?style=flat-square&color=informational) :green_circle:
+- [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino in C.
+![GitHub last commit](https://img.shields.io/github/last-commit/ciniml/WireGuard-ESP32-Arduino?style=flat-square&color=informational) :yellow_circle:
 
 ## Useful Resources
 
