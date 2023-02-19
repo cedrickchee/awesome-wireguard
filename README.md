@@ -244,6 +244,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/EmbarkStudios/wg-ui?style=flat-square&color=informational) :green_circle:
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy/) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 ![GitHub last commit](https://img.shields.io/github/last-commit/WeeJeWel/wg-easy?style=flat-square&color=informational) :green_circle:
+- [brsyuksel/wghttp](https://github.com/brsyuksel/wghttp/) - A http server helps managing wireguard devices and peers on kernel level.
+![GitHub last commit](https://img.shields.io/github/last-commit/brsyuksel/wghttp?style=flat-square&color=informational) :green_circle:
 
 #### Desktop
 
