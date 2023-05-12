@@ -177,8 +177,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/firezone/firezone?style=flat-square&color=informational) :green_circle:
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits.
 ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/algo?style=flat-square&color=informational) :green_circle:
-- [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
-![GitHub last commit](https://img.shields.io/github/last-commit/Place1/wg-access-server?style=flat-square&color=informational) :red_circle:
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
+![GitHub last commit](https://img.shields.io/github/last-commit/freifunkMUC/wg-access-server?style=flat-square&color=informational) 🟢:
 - [WirtBot](https://github.com/b-m-f/WirtBot) - Think of it as a component that will allow you to extend your LAN over the Internet. WirtBot simplifies the process of creating your own private network into 3 steps. No registration, no accounts - Just a network that belongs to you. And it will always be completely free (except for the server/VPS you run it on).
 ![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/WirtBot?style=flat-square&color=informational) :green_circle:
 - [seashell/drago](https://github.com/seashell/drago) - A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI.
@@ -242,6 +242,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/subspacecommunity/subspace?style=flat-square&color=informational) :green_circle:
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 ![GitHub last commit](https://img.shields.io/github/last-commit/EmbarkStudios/wg-ui?style=flat-square&color=informational) :green_circle:
+- [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - WireGuard Web UI interface to manage your WireGuard setup.
+![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square&color=informational) :green_circle:
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy/) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 ![GitHub last commit](https://img.shields.io/github/last-commit/WeeJeWel/wg-easy?style=flat-square&color=informational) :green_circle:
 - [wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard.
@@ -250,8 +252,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
   ![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square&color=informational) :green_circle:
 - [wg-portal](https://github.com/h44z/wg-portal) - Supports LDAP and more
   ![GitHub last commit](https://img.shields.io/github/last-commit/h44z/wg-portal?style=flat-square&color=informational) :green_circle:
-
-
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
+![GitHub last commit](https://img.shields.io/github/last-commit/freifunkMUC/wg-access-server?style=flat-square&color=informational) 🟢:
 #### Desktop
 
 - [network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - Network-Manager VPN Plugin for WireGuard.
