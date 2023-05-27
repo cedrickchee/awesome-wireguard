@@ -160,6 +160,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/gravitl/netmaker?style=flat-square&color=informational) :green_circle:
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - Compare WireGuard mesh tools.
 ![GitHub last commit](https://img.shields.io/github/last-commit/HarvsG/WireGuardMeshes?style=flat-square&color=informational) :green_circle:
+- [wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh ![GitHub last commit](https://img.shields.io/github/last-commit/svenstaro/wiresmith?style=flat-square&color=informational) :green_circle:
 
 ### Deployment
 
