@@ -365,6 +365,7 @@ Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C 
   > Either all traffic (default route) or only the traffic desired for the internal network can be routed through the VPN (split tunneling). This can be configured on the client.
 - [Routing Docker Host And Container Traffic Through WireGuard](https://www.linuxserver.io/blog/routing-docker-host-and-container-traffic-through-wireguard) using [WireGuard Docker image by linuxserver.io](https://github.com/linuxserver/docker-wireguard)
 - [WireGuard setup with Ansible](https://dev.to/tangramvision/exploring-ansible-via-setting-up-a-wireguard-vpn-3389) - A basic Ansible playbook for deploying a WireGuard server and (local) client.
+- [Fly-Tailscale-Exit](https://github.com/patte/fly-tailscale-exit) - Run your own VPN with global exit nodes with Fly.io, Tailscale and Github.
 
 ### Videos
 
