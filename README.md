@@ -244,6 +244,13 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/EmbarkStudios/wg-ui?style=flat-square&color=informational) :green_circle:
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy/) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 ![GitHub last commit](https://img.shields.io/github/last-commit/WeeJeWel/wg-easy?style=flat-square&color=informational) :green_circle:
+- [wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard.
+  ![GitHub last commit](https://img.shields.io/github/last-commit/vx3r/wg-gen-web?style=flat-square&color=informational) :red_circle:
+- [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Simple, have empty interfaces for authentication
+  ![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square&color=informational) :green_circle:
+- [wg-portal](https://github.com/h44z/wg-portal) - Supports LDAP and more
+  ![GitHub last commit](https://img.shields.io/github/last-commit/h44z/wg-portal?style=flat-square&color=informational) :green_circle:
+
 
 #### Desktop
 
