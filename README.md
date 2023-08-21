@@ -233,6 +233,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/utilitywarehouse/wiresteward?style=flat-square&color=informational) :green_circle:
 - [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools) - WireGuard helper scripts.
 ![GitHub last commit](https://img.shields.io/github/last-commit/psyhomb/wireguard-tools?style=flat-square&color=informational) :red_circle:
+- [WG Commander](https://github.com/AndrianBdn/wg-cmd): a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal. 
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
