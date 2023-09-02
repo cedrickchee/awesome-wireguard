@@ -233,6 +233,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/utilitywarehouse/wiresteward?style=flat-square&color=informational) :green_circle:
 - [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools) - WireGuard helper scripts.
 ![GitHub last commit](https://img.shields.io/github/last-commit/psyhomb/wireguard-tools?style=flat-square&color=informational) :red_circle:
+- [wired](https://github.com/b-m-f/wired) - WireGuard network configuration generator with support for multiple topologies written in Rust
+![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/wired?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
