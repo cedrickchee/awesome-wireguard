@@ -192,6 +192,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/cmulk/wireguard-docker?style=flat-square&color=informational) :yellow_circle:
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
 ![GitHub last commit](https://img.shields.io/github/last-commit/masipcat/wireguard-go-docker?style=flat-square&color=informational) :yellow_circle:
+- [bitwister/twine](https://github.com/bitwister/twine) - Label based route/port forwarding management tool for Docker that can be used to easily route traffic of containers from/to Wireguard container, while preserving full network isolation. ![GitHub last commit](https://img.shields.io/github/last-commit/bitwister/twine?style=flat-square&color=informational)
 
 ### Monitoring
 
