@@ -235,7 +235,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/psyhomb/wireguard-tools?style=flat-square&color=informational) :red_circle:
 
 #### Web
-
+- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - All in one proxy manager that includes Wireguard with complete webui for user management and limiting user's usage. ![GitHub last commit](https://img.shields.io/github/last-commit/hiddify/hiddify-manager?style=flat-square&color=informational) :green_circle:
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard.
 ![GitHub last commit](https://img.shields.io/github/last-commit/vx3r/wg-gen-web?style=flat-square&color=informational) :green_circle:
 - [Subspace](https://github.com/subspacecommunity/subspace) - A simple WireGuard VPN server GUI.
