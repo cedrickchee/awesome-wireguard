@@ -142,6 +142,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/Mawthuq-Software/wireguard-manager-and-api?style=flat-square&color=informational) :red_circle:
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 ![GitHub last commit](https://img.shields.io/github/last-commit/sandialabs/wiretap?style=flat-square&color=informational) :green_circle:
+- [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
 
 ### Mesh Network
 
