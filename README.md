@@ -238,6 +238,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [b-m-f/wired](https://github.com/b-m-f/wired) - WireGuard network configuration generator with support for multiple topologies written in Rust
 ![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/wired?style=flat-square&color=informational) :red_circle:
 - [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
+- [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd) - WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal.
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
