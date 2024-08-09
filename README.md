@@ -264,6 +264,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/max-moser/network-manager-wireguard?style=flat-square&color=informational) :red_circle:
 - [WireGuardStatusbar](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
 ![GitHub last commit](https://img.shields.io/github/last-commit/aequitas/macos-menubar-wireguard?style=flat-square&color=informational) :black_circle:
+- [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
+![GitHub last commit](https://img.shields.io/github/last-commit/TunnlTo/desktop-app?style=flat-square&color=informational) :green_circle:
 
 #### Dashboards
 
