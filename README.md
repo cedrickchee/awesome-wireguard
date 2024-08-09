@@ -129,9 +129,9 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [dsnet](https://github.com/naggie/dsnet/) - Simple command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 ![GitHub last commit](https://img.shields.io/github/last-commit/naggie/dsnet?style=flat-square&color=informational) :green_circle:
 - [wgctrl](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
-![GitHub last commit](https://img.shields.io/github/last-commit/WireGuard/wgctrl-go?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/WireGuard/wgctrl-go?style=flat-square&color=informational) :red_circle: 
 - [wgzero](https://github.com/finzzz/wgzero) - Zero overhead wireguard setup.
-![GitHub last commit](https://img.shields.io/github/last-commit/finzzz/wgzero?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/finzzz/wgzero?style=flat-square&color=informational) :red_circle:
 - [wg-make](https://github.com/tevino/wg-make) - A tool to help set up WireGuard based networks. Currently, it generates configurations for peers according to a single configuration file.
 ![GitHub last commit](https://img.shields.io/github/last-commit/tevino/wg-make?style=flat-square&color=informational) :red_circle:
 - [onetun](https://github.com/aramperes/onetun) - A user-space WireGuard port-forwarder -- access ports running on peers in your WireGuard network from any device; without having to install WireGuard locally or without root access (no iptables configs).
@@ -139,7 +139,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [wireproxy](https://github.com/octeep/wireproxy) - A userspace WireGuard client that connects to a WireGuard peer, and exposes a SOCKS5 proxy. (Use cases: Setting up WG as a VPN requires special privilege. It tells the kernel to create a special network interface to handle WG connection. This can get messy if you do not have any special permission (i.e., root), if you do not have proper firewall configuration, or if you want to connect to multiple WG peers at once. wireproxy static tunneling is basically openssh `-D`, which supports SOCKS5 protocols.)
 ![GitHub last commit](https://img.shields.io/github/last-commit/octeep/wireproxy?style=flat-square&color=informational) :green_circle:
 - [wireguard-manager-and-api](https://github.com/Mawthuq-Software/wireguard-manager-and-api) - A tool for rotating the keys on peers to increase their privacy by removing their IP address from memory.
-![GitHub last commit](https://img.shields.io/github/last-commit/Mawthuq-Software/wireguard-manager-and-api?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/Mawthuq-Software/wireguard-manager-and-api?style=flat-square&color=informational) :red_circle:
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 ![GitHub last commit](https://img.shields.io/github/last-commit/sandialabs/wiretap?style=flat-square&color=informational) :green_circle:
 
@@ -160,13 +160,14 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/gravitl/netmaker?style=flat-square&color=informational) :green_circle:
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - Compare WireGuard mesh tools.
 ![GitHub last commit](https://img.shields.io/github/last-commit/HarvsG/WireGuardMeshes?style=flat-square&color=informational) :green_circle:
+- [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh ![GitHub last commit](https://img.shields.io/github/last-commit/svenstaro/wiresmith?style=flat-square&color=informational) :green_circle:
 
 ### Deployment
 
 - [WireHole](https://github.com/IAmStoxe/wirehole) - A combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
-![GitHub last commit](https://img.shields.io/github/last-commit/IAmStoxe/wirehole?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/IAmStoxe/wirehole?style=flat-square&color=informational) :red_circle:
 - [Autowire](https://github.com/elghazal-a/autowire) - Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
-![GitHub last commit](https://img.shields.io/github/last-commit/elghazal-a/autowire?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/elghazal-a/autowire?style=flat-square&color=informational) :red_circle:
 - [Cloudblock](https://github.com/chadgeary/cloudblock) - Deploys WireGuard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
 ![GitHub last commit](https://img.shields.io/github/last-commit/chadgeary/cloudblock?style=flat-square&color=informational) :green_circle:
 - [ansible-role-wireguard](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
@@ -177,10 +178,10 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/firezone/firezone?style=flat-square&color=informational) :green_circle:
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a DIY/personal VPN in the cloud. It is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN, open-sourced by Trail of Bits.
 ![GitHub last commit](https://img.shields.io/github/last-commit/trailofbits/algo?style=flat-square&color=informational) :green_circle:
-- [Place1/wg-access-server](https://github.com/Place1/wg-access-server) - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
-![GitHub last commit](https://img.shields.io/github/last-commit/Place1/wg-access-server?style=flat-square&color=informational) :red_circle:
+- [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution with a Web UI for connecting devices. This project aims to deliver a simple VPN solution for developers, homelab enthusiasts and anyone else feeling adventurous.
+![GitHub last commit](https://img.shields.io/github/last-commit/freifunkMUC/wg-access-server?style=flat-square&color=informational) :green_circle:
 - [WirtBot](https://github.com/b-m-f/WirtBot) - Think of it as a component that will allow you to extend your LAN over the Internet. WirtBot simplifies the process of creating your own private network into 3 steps. No registration, no accounts - Just a network that belongs to you. And it will always be completely free (except for the server/VPS you run it on).
-![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/WirtBot?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/WirtBot?style=flat-square&color=informational) :red_circle: 
 - [seashell/drago](https://github.com/seashell/drago) - A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI.
 ![GitHub last commit](https://img.shields.io/github/last-commit/seashell/drago?style=flat-square&color=informational) :red_circle:
 
@@ -189,14 +190,15 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - A WireGuard container image brought to you by LinuxServer.io. Not all image authors are as great as LinuxServer.io team.
 ![GitHub last commit](https://img.shields.io/github/last-commit/linuxserver/docker-wireguard?style=flat-square&color=informational) :green_circle:
 - [cmulk/wireguard-docker](https://github.com/cmulk/wireguard-docker) - A Docker image and configuration for a simple personal VPN, used for the goal of security over insecure (public) networks, not necessarily for Internet anonymity. There are currently 3 flavors.
-![GitHub last commit](https://img.shields.io/github/last-commit/cmulk/wireguard-docker?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/cmulk/wireguard-docker?style=flat-square&color=informational) :red_circle:
 - [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - WireGuard docker image.
-![GitHub last commit](https://img.shields.io/github/last-commit/masipcat/wireguard-go-docker?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/masipcat/wireguard-go-docker?style=flat-square&color=informational) :green_circle:
+- [bitwister/twine](https://github.com/bitwister/twine) - Label based route/port forwarding management tool for Docker that can be used to easily route traffic of containers from/to Wireguard container, while preserving full network isolation. ![GitHub last commit](https://img.shields.io/github/last-commit/bitwister/twine?style=flat-square&color=informational)
 
 ### Monitoring
 
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, very light on your server resources.
-![GitHub last commit](https://img.shields.io/github/last-commit/MindFlavor/prometheus_wireguard_exporter?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/MindFlavor/prometheus_wireguard_exporter?style=flat-square&color=informational) :red_circle:
 
 ### Security
 
@@ -212,7 +214,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 - [WireGuard in NetworkManager](https://blogs.gnome.org/thaller/2019/03/15/wireguard-in-networkmanager/) - Linux NetworkManager has WireGuard support.
 - [angristan/WireGuard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers.
-![GitHub last commit](https://img.shields.io/github/last-commit/angristan/wireguard-install?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/angristan/wireguard-install?style=flat-square&color=informational) :red_circle: 
 - [PiVPN](https://github.com/pivpn/pivpn) - The Simplest VPN installer (scripts), designed for Raspberry Pi.
 ![GitHub last commit](https://img.shields.io/github/last-commit/pivpn/pivpn?style=flat-square&color=informational) :green_circle:
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora.
@@ -233,19 +235,26 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/utilitywarehouse/wiresteward?style=flat-square&color=informational) :green_circle:
 - [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools) - WireGuard helper scripts.
 ![GitHub last commit](https://img.shields.io/github/last-commit/psyhomb/wireguard-tools?style=flat-square&color=informational) :red_circle:
-- [WG Commander](https://github.com/AndrianBdn/wg-cmd): a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal. 
+- [b-m-f/wired](https://github.com/b-m-f/wired) - WireGuard network configuration generator with support for multiple topologies written in Rust
+![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/wired?style=flat-square&color=informational) :red_circle:
+- [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
+- [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd) - WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal.
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard.
-![GitHub last commit](https://img.shields.io/github/last-commit/vx3r/wg-gen-web?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/vx3r/wg-gen-web?style=flat-square&color=informational) :red_circle:
 - [Subspace](https://github.com/subspacecommunity/subspace) - A simple WireGuard VPN server GUI.
-![GitHub last commit](https://img.shields.io/github/last-commit/subspacecommunity/subspace?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/subspacecommunity/subspace?style=flat-square&color=informational) :red_circle:
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
-![GitHub last commit](https://img.shields.io/github/last-commit/EmbarkStudios/wg-ui?style=flat-square&color=informational) :green_circle:
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy/) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-![GitHub last commit](https://img.shields.io/github/last-commit/WeeJeWel/wg-easy?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/EmbarkStudios/wg-ui?style=flat-square&color=informational) :red_circle:
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+![GitHub last commit](https://img.shields.io/github/last-commit/Wg-easy/wg-easy?style=flat-square&color=informational) :green_circle:
+- [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Simple, have empty interfaces for authentication
+![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square&color=informational) :yellow_circle:
+- [h44z/wg-portal](https://github.com/h44z/wg-portal) - Supports LDAP and more
+![GitHub last commit](https://img.shields.io/github/last-commit/h44z/wg-portal?style=flat-square&color=informational) :green_circle:
 
 #### Desktop
 
@@ -257,7 +266,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 #### Dashboards
 
 - [Wireguard Dashboard](https://github.com/donaldzou/wireguard-dashboard) - A simple and easy to use WireGuard dashboard written in Python and Flask.
-![GitHub last commit](https://img.shields.io/github/last-commit/donaldzou/wireguard-dashboard?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/donaldzou/wireguard-dashboard?style=flat-square&color=informational) :green_circle:
 
 ### Development
 
@@ -284,17 +293,17 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [MozWire](https://github.com/NilsIrl/MozWire) - An unofficial configuration manager giving Linux, macOS users (among others), access to Mozilla VPN.
 ![GitHub last commit](https://img.shields.io/github/last-commit/NilsIrl/MozWire?style=flat-square&color=informational) :green_circle:
 - [LNVPN](https://github.com/LightRider5/lnvpn) - A wireguard VPN provider with Ligthning only payments, pay as you use.
-![GitHub last commit](https://img.shields.io/github/last-commit/LightRider5/lnvpn?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/LightRider5/lnvpn?style=flat-square&color=informational) :red_circle:
 
 ### Extensions / Plugins
 
 - [wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that serves WireGuard peer information via DNS-SD (RFC6763) semantics. This enables use cases such as mesh networking, NAT-to-NAT connectivity, and dynamic discovery of WireGuard endpoint.
-![GitHub last commit](https://img.shields.io/github/last-commit/jwhited/wgsd?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/jwhited/wgsd?style=flat-square&color=informational) :yellow_circle:
 
 ### Optimization
 
 - [nr-wg-mtu-finder](https://github.com/nitred/nr-wg-mtu-finder) - A Python project to help you find the optimal MTU values for WG server and WG peer that maximizes the upload or download speeds between a peer and server.
-![GitHub last commit](https://img.shields.io/github/last-commit/nitred/nr-wg-mtu-finder?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/nitred/nr-wg-mtu-finder?style=flat-square&color=informational) :yellow_circle:
 
 ### Language Bindings
 
@@ -303,13 +312,13 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C and Go, other implementations include:
 
 - [boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard implementation in Rust by Cloudflare.
-![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/boringtun?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/cloudflare/boringtun?style=flat-square&color=informational) :yellow_circle:
 - [Matt Dunwoodie's implementation for OpenBSD, written in C](https://undeadly.org/cgi?action=article;sid=20200622052207).
 - [Ryota Ozaki's wg(4) implementation, for NetBSD, is written in C](https://man.netbsd.org/wg.4).
 - [smartalock/wireguard-lwip](https://github.com/smartalock/wireguard-lwip) - A C implementation of the WireGuard protocol intended to be used with the lwIP IP stack.
-![GitHub last commit](https://img.shields.io/github/last-commit/smartalock/wireguard-lwip?style=flat-square&color=informational) :green_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/smartalock/wireguard-lwip?style=flat-square&color=informational) :yellow_circle:
 - [ciniml/WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard implementation for ESP32 Arduino in C.
-![GitHub last commit](https://img.shields.io/github/last-commit/ciniml/WireGuard-ESP32-Arduino?style=flat-square&color=informational) :yellow_circle:
+![GitHub last commit](https://img.shields.io/github/last-commit/ciniml/WireGuard-ESP32-Arduino?style=flat-square&color=informational) :red_circle:
 
 ## Useful Resources
 
@@ -321,12 +330,14 @@ Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C 
 - [Setup and Adblocking VPN Using WireGuard and NextDNS](https://blog.paramdeo.com/2019/07/03/setup-an-adblocking-vpn-using-wireguard-and-nextdns.html)
 - [WireGuard Endpoint Discovery and NAT Traversal using DNS-SD](https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/)
 - [Taildrop was kind of easy, actually](https://tailscale.com/blog/2021-06-taildrop-was-easy/) - Taildrop was the main new feature launched in Tailscale v1.8.
+- [Using Tailscale for Authentication of Internal Tools](https://blog.cloud66.com/using-tailscale-for-authentication-of-internal-tools)
 - [IPv6 WireGuard Peering at Fly.io](https://fly.io/blog/ipv6-wireguard-peering/)
 - [Our User-Mode WireGuard Year](https://fly.io/blog/our-user-mode-wireguard-year/)
 - [Tunnel WireGuard via WebSockets](https://kirill888.github.io/notes/wireguard-via-websocket/) - Setting up WireGuard to work in restricted networks that block UDP traffic.
 - [Tailscale's human-scale networks are still controlled by Google and Microsoft](https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/)
 - [How to access a peer's local network](https://iliasa.eu/wireguard-how-to-access-a-peers-local-network/) - A simple solution. There is no need of any configurations to set split-tunneling. The example shows how Peer B can route to Peer A through a WG server. Peer B can reach a specific network (subnet) behind Peer A.
 - [Routing Specific Docker Containers Through WireGuard VPN with systemd-networkd](https://www.eisfunke.com/article/docker-wireguard-systemd.html) - A simple solution for routing specific docker containers through a WireGuard VPN using only two simple systemd-networkd files, no cumbersome `wg` or `ip` calls.
+- [Decoding WireGuard with Wireshark](https://blog.salrashid.dev/articles/2022/wireguard_wireshark/) - A simple guide on how to inspect WireGuard packets in Wireshark.
 
 ### Articles
 
@@ -357,6 +368,7 @@ Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C 
   > Either all traffic (default route) or only the traffic desired for the internal network can be routed through the VPN (split tunneling). This can be configured on the client.
 - [Routing Docker Host And Container Traffic Through WireGuard](https://www.linuxserver.io/blog/routing-docker-host-and-container-traffic-through-wireguard) using [WireGuard Docker image by linuxserver.io](https://github.com/linuxserver/docker-wireguard)
 - [WireGuard setup with Ansible](https://dev.to/tangramvision/exploring-ansible-via-setting-up-a-wireguard-vpn-3389) - A basic Ansible playbook for deploying a WireGuard server and (local) client.
+- [Fly-Tailscale-Exit](https://github.com/patte/fly-tailscale-exit) - Run your own VPN with global exit nodes with Fly.io, Tailscale and Github.
 
 ### Videos
 
