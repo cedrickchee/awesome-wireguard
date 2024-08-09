@@ -255,6 +255,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square&color=informational) :yellow_circle:
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - Supports LDAP and more
 ![GitHub last commit](https://img.shields.io/github/last-commit/h44z/wg-portal?style=flat-square&color=informational) :green_circle:
+- [brsyuksel/wghttp](https://github.com/brsyuksel/wghttp/) - A http server helps managing wireguard devices and peers on kernel level.
+![GitHub last commit](https://img.shields.io/github/last-commit/brsyuksel/wghttp?style=flat-square&color=informational) :green_circle:
 
 #### Desktop
 
