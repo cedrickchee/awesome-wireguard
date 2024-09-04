@@ -142,6 +142,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/Mawthuq-Software/wireguard-manager-and-api?style=flat-square&color=informational) :red_circle:
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 ![GitHub last commit](https://img.shields.io/github/last-commit/sandialabs/wiretap?style=flat-square&color=informational) :green_circle:
+- [coder/wush](https://github.com/coder/wush) - Simplest and fastest way to transfer files between computers via WireGuard.
+![GitHub last commit](https://img.shields.io/github/last-commit/coder/wush?style=flat-square&color=informational) :green_circle:
 
 ### Mesh Network
 
