@@ -57,7 +57,7 @@ We use emoji to determine repository status.
     - Encryption
   - Runtime
   - [User Interface](#user-interface)
-    - [Terminal / CLI](terminal--cli)
+    - [Terminal / CLI](#terminal--cli)
     - [Web](#web)
     - [Desktop](#desktop)
     - [Dashboards](#dashboards)
