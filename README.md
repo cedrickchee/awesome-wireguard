@@ -186,6 +186,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/b-m-f/WirtBot?style=flat-square&color=informational) :red_circle: 
 - [seashell/drago](https://github.com/seashell/drago) - A self-hosted and flexible configuration manager designed to make it simple to configure secure network overlays spanning heterogeneous nodes via a Web UI.
 ![GitHub last commit](https://img.shields.io/github/last-commit/seashell/drago?style=flat-square&color=informational) :red_circle:
+- [auto-vpn](https://github.com/g1ibby/auto-vpn) - On-demand WireGuard VPN server manager that deploys temporary, cost-effective VPN servers on VPS providers like Vultr or Linode with automated setup and cleanup.
+![GitHub last commit](https://img.shields.io/github/last-commit/g1ibby/auto-vpn?style=flat-square&color=informational) :green_circle:
 
 #### Container
 
