@@ -259,6 +259,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/h44z/wg-portal?style=flat-square&color=informational) :green_circle:
 - [brsyuksel/wghttp](https://github.com/brsyuksel/wghttp/) - A http server helps managing wireguard devices and peers on kernel level.
 ![GitHub last commit](https://img.shields.io/github/last-commit/brsyuksel/wghttp?style=flat-square&color=informational) :green_circle:
+- [ygguser/Simple-WG-Config-Generator](https://github.com/ygguser/Simple-WG-Config-Generator) - A very simple web-based generator of Wireguard configuration files.
+![GitHub last commit](https://img.shields.io/github/last-commit/ygguser/Simple-WG-Config-Generator?style=flat-square&color=informational) :green_circle:
 
 #### Desktop
 
