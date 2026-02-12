@@ -242,6 +242,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
 - [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd) - WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal.
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
+- [vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch. Written in Rust. Supports macOS and Linux.
+![GitHub last commit](https://img.shields.io/github/last-commit/Harry-kp/vortix?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
