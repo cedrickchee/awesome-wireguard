@@ -242,7 +242,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
 - [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd) - WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal.
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
-- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command installer and manager for AmneziaWG 2.0 (obfuscated WireGuard) VPN on Ubuntu, with DPI traffic bypass, client management, and auto-hardening.
+- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command installer and manager for AmneziaWG 2.0 (obfuscated WireGuard) VPN on Ubuntu & Debian, with DPI traffic bypass, client management, and auto-hardening.
 ![GitHub last commit](https://img.shields.io/github/last-commit/bivlked/amneziawg-installer?style=flat-square&color=informational) :green_circle:
 
 #### Web
