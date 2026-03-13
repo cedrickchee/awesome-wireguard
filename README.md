@@ -1,4 +1,3 @@
-
 # Awesome WireGuard [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <br />
@@ -242,6 +241,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [muiquq/wgcfghelp](https://github.com/muqiuq/wgcfghelp) - Lightweight single binary CLI tool, roadwarrior peer management, config file generator, QR code image generator, MikroTik command generator. ![GitHub last commit](https://img.shields.io/github/last-commit/muqiuq/wgcfghelp?style=flat-square&color=informational) :green_circle:
 - [AndrianBdn/wg-cmd](https://github.com/AndrianBdn/wg-cmd) - WG Commander is a TUI for a simple WireGuard VPN setup. UI, QR Codes, Setup Wizard in the terminal.
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrianBdn/wg-cmd?style=flat-square&color=informational) :green_circle:
+- [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - One-command installer and manager for AmneziaWG 2.0 (obfuscated WireGuard) VPN on Ubuntu & Debian, with DPI traffic bypass, client management, and auto-hardening.
+![GitHub last commit](https://img.shields.io/github/last-commit/bivlked/amneziawg-installer?style=flat-square&color=informational) :green_circle:
 
 #### Web
 
@@ -362,7 +363,7 @@ Beside Jason Donenfeld's implementation of the WireGuard protocol, written in C 
 
 - [How to easily configure WireGuard](https://www.stavros.io/posts/how-to-configure-wireguard/)
 - [Getting Started with WireGuard](https://miguelmota.com/blog/getting-started-with-wireguard/)
-- [What They Don’t Tell You About Setting Up A WireGuard VPN](https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g)
+- [What They Don't Tell You About Setting Up A WireGuard VPN](https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g)
 - [Building a simple VPN with WireGuard with a Raspberry Pi as Server](https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/)
 - [Setting up a home VPN server with Wireguard (macOS)](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [Creating a VPN Gateway with a Unikernel running WireGuard](https://nanovms.com/dev/tutorials/running-nanos-wireguard-vpn-gateway)
