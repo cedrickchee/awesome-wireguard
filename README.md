@@ -273,6 +273,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 - [Wireguard Dashboard](https://github.com/donaldzou/wireguard-dashboard) - A simple and easy to use WireGuard dashboard written in Python and Flask.
 ![GitHub last commit](https://img.shields.io/github/last-commit/donaldzou/wireguard-dashboard?style=flat-square&color=informational) :green_circle:
+- [WgDashboard++](https://github.com/polumish/wgdashboard-plus-plus) - Fork of WGDashboard with client self-service portal, display density settings, dual-column peer view, and OPNsense integration.
+![GitHub last commit](https://img.shields.io/github/last-commit/polumish/wgdashboard-plus-plus?style=flat-square&color=informational) :green_circle:
 
 ### Development
 
