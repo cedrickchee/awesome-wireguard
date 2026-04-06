@@ -145,6 +145,9 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [coder/wush](https://github.com/coder/wush) - Simplest and fastest way to transfer files between computers via WireGuard.
 ![GitHub last commit](https://img.shields.io/github/last-commit/coder/wush?style=flat-square&color=informational) :green_circle:
 
+- [YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server for managing Tailscale tailnets from AI assistants. 52 tools covering devices, ACLs, DNS, and auth keys.
+![GitHub last commit](https://img.shields.io/github/last-commit/YawLabs/tailscale-mcp?style=flat-square&color=informational) :green_circle:
+
 ### Mesh Network
 
 - [Tailscale](https://tailscale.com/) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
