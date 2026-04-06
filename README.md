@@ -19,6 +19,7 @@ _If you see a link here that is not (any longer) a good fit, you can fix it by s
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for WireGuard VPN workflow orchestration, automated network security management, and multi-agent coordination. MIT licensed.
 ## Status Badges
 
 We use emoji to determine repository status.
