@@ -253,6 +253,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/EmbarkStudios/wg-ui?style=flat-square&color=informational) :red_circle:
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 ![GitHub last commit](https://img.shields.io/github/last-commit/Wg-easy/wg-easy?style=flat-square&color=informational) :green_circle:
+- [VPN Management Studio](https://github.com/marksameron/vpn-manager-docs) - Self-hosted multi-protocol VPN management platform with admin panel, client portal, Telegram bots, and subscription management. Supports WireGuard, AmneziaWG, Hysteria2, and TUIC. Commercial with free trial.
+![GitHub last commit](https://img.shields.io/github/last-commit/marksameron/vpn-manager-docs?style=flat-square&color=informational) :green_circle:
 - [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Simple, have empty interfaces for authentication
 ![GitHub last commit](https://img.shields.io/github/last-commit/ngoduykhanh/wireguard-ui?style=flat-square&color=informational) :yellow_circle:
 - [h44z/wg-portal](https://github.com/h44z/wg-portal) - Supports LDAP and more
