@@ -201,6 +201,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, very light on your server resources.
 ![GitHub last commit](https://img.shields.io/github/last-commit/MindFlavor/prometheus_wireguard_exporter?style=flat-square&color=informational) :red_circle:
+- [Flowtriq/ftagent-lite](https://github.com/Flowtriq/ftagent-lite) - Lightweight network traffic monitor with adaptive DDoS detection for protecting WireGuard server infrastructure.
+![GitHub last commit](https://img.shields.io/github/last-commit/Flowtriq/ftagent-lite?style=flat-square&color=informational) :green_circle:
 
 ### Security
 
