@@ -144,6 +144,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 ![GitHub last commit](https://img.shields.io/github/last-commit/sandialabs/wiretap?style=flat-square&color=informational) :green_circle:
 - [coder/wush](https://github.com/coder/wush) - Simplest and fastest way to transfer files between computers via WireGuard.
 ![GitHub last commit](https://img.shields.io/github/last-commit/coder/wush?style=flat-square&color=informational) :green_circle:
+- [Tether](https://github.com/viktor-svirsky/tether) - Runs a WireGuard server inside an iOS app on the iPhone's Personal Hotspot, so a laptop, iPad, Android phone or travel router uses the phone's data through WireGuard. Sideloaded, no VPN entitlement needed.
+![GitHub last commit](https://img.shields.io/github/last-commit/viktor-svirsky/tether?style=flat-square&color=informational) :green_circle:
 
 ### Mesh Network
 
