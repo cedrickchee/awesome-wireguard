@@ -262,6 +262,8 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 
 #### Desktop
 
+- [LockPlus](https://github.com/steiale/lockplus) - Native macOS WireGuard and OpenVPN client with a kill switch that macOS enforces (Network Extension, wireguard-go).
+![GitHub last commit](https://img.shields.io/github/last-commit/steiale/lockplus?style=flat-square&color=informational) :green_circle:
 - [network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - Network-Manager VPN Plugin for WireGuard.
 ![GitHub last commit](https://img.shields.io/github/last-commit/max-moser/network-manager-wireguard?style=flat-square&color=informational) :red_circle:
 - [WireGuardStatusbar](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
