@@ -163,6 +163,7 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes) - Compare WireGuard mesh tools.
 ![GitHub last commit](https://img.shields.io/github/last-commit/HarvsG/WireGuardMeshes?style=flat-square&color=informational) :green_circle:
 - [svenstaro/wiresmith](https://github.com/svenstaro/wiresmith) - Auto-config WireGuard clients into a mesh ![GitHub last commit](https://img.shields.io/github/last-commit/svenstaro/wiresmith?style=flat-square&color=informational) :green_circle:
+- [USAREUR-AF/goatcore](https://github.com/USAREUR-AF/goatcore) - goat is an open-source data fabric on a NetBird-managed WireGuard mesh: identity-based access, publish/subscribe with a router at every site, and sites that keep working when cut off. ![GitHub last commit](https://img.shields.io/github/last-commit/USAREUR-AF/goatcore?style=flat-square&color=informational) :green_circle:
 
 ### Deployment
 
