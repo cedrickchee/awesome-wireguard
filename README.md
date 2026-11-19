@@ -269,6 +269,9 @@ _Source: [Official WireGuard project website](https://www.wireguard.com/)_
 - [TunnlTo/desktop-app](https://github.com/TunnlTo/desktop-app) - TunnlTo is a lightweight, fast, Windows WireGuard VPN client built for split tunneling.
 ![GitHub last commit](https://img.shields.io/github/last-commit/TunnlTo/desktop-app?style=flat-square&color=informational) :green_circle:
 
+- [WireGuard 管理台 (WireGuardManager)](https://github.com/leirui2/wireguard-manage) - Windows desktop GUI that adds, edits and removes WireGuard peers in the server's `wg0.conf` over SSH (QR-code import, live sync with rollback on failure), and hosts local tunnels. No web panel, Docker or database on the server.
+![GitHub last commit](https://img.shields.io/github/last-commit/leirui2/wireguard-manage?style=flat-square&color=informational) :green_circle:
+
 #### Dashboards
 
 - [Wireguard Dashboard](https://github.com/donaldzou/wireguard-dashboard) - A simple and easy to use WireGuard dashboard written in Python and Flask.
